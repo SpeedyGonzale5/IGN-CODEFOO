@@ -1,6 +1,6 @@
 # Dear IGN, 
+Greetings, IGN! My name is Pedro Nevarez and I would love to practice Code-Foo with you this summer and beyond!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # How many Voltorbs will you need to catch to fully power the Village of Jubilife City?
 Step 1: One of my favorite aspects of playing videogames has always been discovering the harder to find lore in a game so that is exactly what I will do to help me answer this question. My refined googling skills from coding came in handy when searching for a greater understanding of how Voltorb functions and I was able to quickly find a thread from the user “coconutarmy1” on how much electricity Voltorb can produce an hour. In this thread the user was able to estimate that an average Electrode can produce about 2.3 billion killowats per hour. 
